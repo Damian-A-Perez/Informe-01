@@ -29,6 +29,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 3- Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan 
 4- Observar en qué puntos existe una caída de corriente con referencia a los elementos y la dirección de la corriente en cada
 tramo para completar el circuito 
+
 1.2. REQUISITOS PREVIOS. 
 Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados 
 obtenidos en las tablas 1.1, 1.2. y 1.3 
