@@ -26,7 +26,8 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 1-Obtener los valores de corriente y voltaje en su respectiva resistencia, usando leyes de Kirchhoff en Voltajes y Corrientes  
 2-Diferenciar cuántos tramos o mallas podremos analizar  
-3-Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan.
+3-Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan
+
 4- Observar en qué puntos existe una caída de corriente con referencia a los elementos y la dirección de la corriente en cada
 
 1.2. REQUISITOS PREVIOS. 
