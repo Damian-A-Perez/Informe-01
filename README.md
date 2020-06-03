@@ -62,4 +62,13 @@ Las leyes de Kirchhoff son dos las cuales dicen:
 Primera Ley de Kirchhoff.- 
 La primera Ley de Kirchhoff, o también conocida como ley de corrientes de Kirchhoff o ley de nodos, dice que: “En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de la corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero”. 
 Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
-. . ∑ n k=1 Vk = V1 +V2 +V3 +. +V n 
+
+V1+V2+V3+...+Vn=0
+
+Segunda Ley de Kirchhoff.- 
+
+La segunda ley de Kirchhoff, también conocida como la Ley de tensiones de Kirchhoff nos dice que: “En un circuito cerrado, la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente, la suma algebraica de las diferencias de potencial eléctrico en un circuito es igual a cero.” 
+Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
+
+
+
