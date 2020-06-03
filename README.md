@@ -63,12 +63,49 @@ Primera Ley de Kirchhoff.-
 La primera Ley de Kirchhoff, o también conocida como ley de corrientes de Kirchhoff o ley de nodos, dice que: “En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de la corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero”. 
 Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
 
-V1+V2+V3+...+Vn=0
+I1+I2+I3+...+In=0
 
 Segunda Ley de Kirchhoff.- 
 
 La segunda ley de Kirchhoff, también conocida como la Ley de tensiones de Kirchhoff nos dice que: “En un circuito cerrado, la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente, la suma algebraica de las diferencias de potencial eléctrico en un circuito es igual a cero.” 
 Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
 
+V1+V2+V3+...+Vn=0
+
+Imagen
+
+1.5 MATERIAL Y EQUIPO REQUERIDO 
+
+Tabla
+
+1.6 PROCEDIMIENTO  
+ 
+1.6.1. Arme el circuito que se muestra en la figura 1.1. 
+
+Tabla
+
+1.6.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+
+Tabla
+
+1.6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
+
+Tabla
+
+1.6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
+
+Tabla
+
+1.6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto. 
+ 
+1.7  ​CONCLUSIONES 
+
+1.7.1 ​Todos los nodos elegidos cumplen con la ley de corrientes de Kirchhoff ya que la misma cantidad de corriente que entra al nodo es la que sale de este. 
+
+1.7.2 ​En el nodo de un circuito, si una corriente entra, otra sale 
+
+1.7.3 ​Cada resistencia tendrá su correspondiente voltaje los cuales cumplen con la ley de voltaje de Kirchhoff 
+
+1.7.4 ​Como podemos ver, los porcentajes de error obtenido son bastante bajos con lo cual si se cumplirian las leyes de Kirchhoff. 
 
 
