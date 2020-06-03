@@ -24,16 +24,20 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 1.1.1 objetivos específicos  
 
-1-Obtener los valores de corriente y voltaje en su respectiva resistencia, usando leyes de Kirchhoff en Voltajes y Corrientes  
+1-Obtener los valores de corriente y voltaje en su respectiva resistencia, usando leyes de Kirchhoff en Voltajes y Corrientes
+
 2-Diferenciar cuántos tramos o mallas podremos analizar  
+
 3-Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan
 
 4- Observar en qué puntos existe una caída de corriente con referencia a los elementos y la dirección de la corriente en cada
+
 
 1.2. REQUISITOS PREVIOS. 
 
 Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados 
 obtenidos en las tablas 1.1, 1.2. y 1.3 
+
 
 1.3. INFORMACIÓN GENERAL 
 
@@ -41,8 +45,10 @@ obtenidos en las tablas 1.1, 1.2. y 1.3
 las Leyes de Kirchhoff del voltaje y corriente, ya que con ellas se puede determinar el 
 valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes 
 de Kirchhoff se enuncian a continuación: 
+
 a) Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un 
 nodo es igual a la suma de las corrientes que salen del mismo. 
+
 b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma. 
  
  
