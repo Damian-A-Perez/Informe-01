@@ -112,6 +112,7 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto
  
+ En este caso los valores calculados y los valores medidos son prectimante iguales y no presentan ningun porcentaje de error,  sin embargo esto sucedio ya que los valores calculados los obtuvimos por medio de una simulacion en un laboratorio virtual, pero si los valores fuesen medidos fisicamente, habria salido cierto porcentaje de error, pero este seria bastante minimo.
  
 7  ​ Explicaciones del codigo Fuente
 
