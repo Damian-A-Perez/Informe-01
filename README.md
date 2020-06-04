@@ -108,6 +108,7 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 |  :---:|  :---: | :---: | :---: |
 
 |        | Calculado | m|Calculado |m|Calculado|m|
+|  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |
 | `VR1(V)` | 2.05[v] |2.05[v]||2.05[v]||2.05[v]||2.05[v]||2.05[v]|
 
 1.6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
