@@ -77,17 +77,20 @@ V1+V2+V3+...+Vn=0
 
 1.5 MATERIAL Y EQUIPO REQUERIDO 
 
-Tabla
+![Tabla materiales](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I2.png)
 
 1.6 PROCEDIMIENTO  
  
 1.6.1. Arme el circuito que se muestra en la figura 1.1. 
 
-Tabla
+![MHE](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I3.png)
 
 1.6.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
 
-Tabla
+| Comando | Descripción |
+| --- | --- |
+| `git status` | Enumera todos los archivos *nuevos o modificados* |
+| `git diff` | Muestra las diferencias de archivo que **no han sido** preparad|
 
 1.6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
 
