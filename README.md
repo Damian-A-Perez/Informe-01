@@ -115,11 +115,22 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 | VR3(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]| 
 | VR4(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]|
 | `VR5(V)`    | -3.69[v]|-3.7[v] | 0       |0       |-3.69[v]  |-3.7[v] |
-| `SUMATORIA` | 0[v]    |0[v]    | 0[v]    |0[v]    |0[v]      |0[v]    |
+| `SUMATORIA V` | 0[v]    |0[v]    | 0[v]    |0[v]    |0[v]      |0[v]    |
 
 1.6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
 
-Tabla
+| Corriente| Nodo 1 | Nodo 2 |Nodo 3 |Nodo 4 |Nodo 5 |
+|  :---:|  :---: | :---: | :---: | :---: | :---: |
+
+|        | Calculado | Medido|Calculado |Medido|Calculado|Medido|Calculado|Medido|Calculado|Medido|
+|  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |:---: |:---: |:---: |:---: |
+| IF(mA)        | 2.05 |2.05  |  0    |0     |0      |0    |0     |  0  |-2.05    | -2.05  |     
+| IR1(mA)       | -2.05|-2.05 |  2.05 |2.05  |0      |0    |0     |  0  |  0    |  0    |    
+| IR2(mA)       | 0    |0     |-1.089 |-1.09 | 0     |0    |1.089 |   1.09    |    |  0    |  
+| IR3(mA)       | 0    |0     |-0.9659|-0.96 |0.9659 |0.96 |0     | 0    |  0    |  0    |   
+| IR4(mA)       | 0    |0     |0      |0     |-0.9659|-0.96|0.9659|   0.96 |    |  0    |  
+| IR5(mA)       |  0   |0     | 0     |0     |0      |0    |-2.05 |   -2.05|  2.05  | 2.05  |  
+| `SUMATORIA I` | 0[mA]|0[mA] | 0[mA] |0[mA] |0[mA]  |0[mA]|0[mA] |  0[mA] | 0[mA]  |0[mA]   |  
 
 1.6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto. 
  
@@ -132,5 +143,7 @@ Tabla
 1.7.3 ​Cada resistencia tendrá su correspondiente voltaje los cuales cumplen con la ley de voltaje de Kirchhoff 
 
 1.7.4 ​Como podemos ver, los porcentajes de error obtenido son bastante bajos con lo cual si se cumplirian las leyes de Kirchhoff. 
+
+
 
 
