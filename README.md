@@ -20,13 +20,13 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 2.1 Objetivos especifivos 
 
-1-Descubrir los valores de corriente y voltaje en su respectiva resistencia, usando leyes de Kirchhoff en Voltajes y Corrientes
+2.1.1- Descubrir los valores de corriente y voltaje en su respectiva resistencia, usando leyes de Kirchhoff en Voltajes y Corrientes
 
-2-Identificar cuántos tramos o mallas podremos analiza
+2.1.2- Identificar cuántos tramos o mallas podremos analiza
 
-3-Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan
-  
-4- Usar adecuadamente los elementos de medición para evitar un error en los valores calculados
+2.1.3- Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan
+
+2.1.4- Usar adecuadamente los elementos de medición para evitar un error en los valores
 
 3.- Marco Teórico
 
@@ -57,4 +57,5 @@ V1+V2+V3+...+Vn=0
 
 ![Tabla materiales](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I2.png)
 
-   
+6.- Mapa de Variables
+
