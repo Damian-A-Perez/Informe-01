@@ -88,9 +88,17 @@ V1+V2+V3+...+Vn=0
 1.6.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
 
 | variable | valor calculado | valor medio |
-| --- | --- |--- |
+|  :---:|  :---: | :---: |
 | `VR1(V)` | 2.05[v] |2.05[v]|
-| `git diff` | Muestra las diferencias de archivo que **no han sido** preparad|
+| IR1(mA) | 2.05[mA] |2.05[v]|
+| VR2(V)| 4.25[v]|2.05[v]|
+| IR2(mA) | 1.089[mA] |2.05[v]|
+| VR3(V) | 2.125[v]|2.05[v]|
+| IR3(mA) | 0.9659[mA] |2.05[v]|
+| VR4(V)| 2.125[v] |2.05[v]|
+| IR4(mA)| 0.9659[mA] |2.05[v]|
+| VR5(V) | 3.7[v] |2.05[v]|
+| IR5(mA) | 2.05[mA] |2.05[v]|
 
 1.6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
 
