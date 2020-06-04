@@ -100,9 +100,14 @@ V1+V2+V3+...+Vn=0
 | VR5(V) | 3.7[v] |3.7[v]|
 | IR5(mA) | 2.05[mA] |2.05[mA]|
 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
 1.6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
 
-Tabla
+| Voltaje| Trayectoria 1 | Trayectoria 2 |Trayectoria 3 |
+|        | Calculado | m|Calculado |m|Calculado|m|
+|  :---:|  :---: | :---: |:---: | :---: |:---: | :---: |
+| `VR1(V)` | 2.05[v] |2.05[v]||2.05[v]||2.05[v]||2.05[v]||2.05[v]|
 
 1.6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
 
