@@ -5,7 +5,7 @@ Imagen
 TEMA: PRÁCTICA No. 1 LEYES DE KIRCHHOFF 
  
  
-ESTUDIANTES:  MENESES JARRIN SANTIAGO JAVIER OSEJO CUESTA BRANDON DILAN PEREZ CEDILLO DAMIAN ALEXANDER 
+ESTUDIANTES:  MENESES JARRIN SANTIAGO JAVIER OSEJO CUESTA BRANDON DILLAN PEREZ CEDILLO DAMIAN ALEXANDER 
  
  
 DOCENTE: DARWIN OMAR ALULEMA FLORES 
@@ -72,7 +72,8 @@ Entonces siguiendo el enunciado obtenemos la siguiente ecuación:
 
 V1+V2+V3+...+Vn=0
 
-Imagen
+![Ejemplo de circuito resistivo](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I1.png)
+
 
 1.5 MATERIAL Y EQUIPO REQUERIDO 
 
