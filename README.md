@@ -134,3 +134,7 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 9.2  colocar los elementos de manera en que al unirlo genereando un circuito cerrado, su distancia no sea excesivay tengan una conexion segura 
 
 9.3 Recordar los terminos necesaios para  medir los valores tanto de voltaje como amperaje en un elemento dentro del circuito.
+
+10) Cronograma:
+
+![Cronograma](https://github.com/Damian-A-Perez/Informe-01/blob/master/img/L1I4.jpeg)
