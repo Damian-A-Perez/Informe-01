@@ -53,7 +53,8 @@ V1+V2+V3+...+Vn=0
 
 ![Ejemplo de circuito resistivo](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I1.png)
 
+5.- MATERIAL Y EQUIPO REQUERIDO
 
+![Tabla materiales](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I2.png)
 
- 
    
