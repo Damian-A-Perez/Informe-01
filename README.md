@@ -116,3 +116,21 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 7  ​ Explicaciones del codigo Fuente
 
    Para la implementacion dentro del simulador  para la implemente debemos tomar primero la fuente de voltaje con los datos a proporcionar al circuito correctos, tomar el protoboar y realizar una conexión directa con los polos negativos y positivos de la fuente de poder, realizar un puente de un extremo del protoboarda al otro para asegurar que la corriente  pase por todos los tramos de la plataforma y poder utilizar mas espacio de trabajo, tener en cuenta que cada nodo de conexíon dentro del protoboard, se representa como una linea vertical de espacios para poder conectar los elementos en el nodo respectivo. El circuito requiere un  voltaje de entrada de 10v asi que en la fuente se colocaran los 10v de entrada y ya colocados los elementos cerrando el circuito, se procede a iniciar la simulación
+   
+8)   Conclusiónes: 
+
+8.1   Todos los nodos elegidos cumplen con la ley de corrientes de Kirchhoff ya que la misma cantidad de corriente que entra al nodo es la que sale de este. 
+
+8.2 En el nodo de un circuito, si una corriente entra, otra sale
+
+8.3 Cada resistencia tendrá su correspondiente voltaje los cuales cumplen con la ley de voltaje de Kirchhoff
+
+8.4 Como podemos ver, los porcentajes de error obtenido son bastante bajos con lo cual si se cumplirían las leyes de Kirchhoff.
+
+9) Recomendaciones: 
+
+9.1 Usar una distinción en el cableado del circuito para poder encontrar una posible falla de manera  efectiva
+
+9.2  colocar los elementos de manera en que al unirlo genereando un circuito cerrado, su distancia no sea excesivay tengan una conexion segura 
+
+9.3 Recordar los terminos necesaios para  medir los valores tanto de voltaje como amperaje en un elemento dentro del circuito.
