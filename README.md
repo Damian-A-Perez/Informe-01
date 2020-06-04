@@ -27,3 +27,33 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 3-Determinar cuántos nodos existen dentro del circuitos tomando en cuenta que no se repitan
   
 4- Usar adecuadamente los elementos de medición para evitar un error en los valores calculados
+
+3.- Marco Teórico
+
+Leyes de Kirchhoff
+Las leyes de Kirchhoff son enunciados basados en la conservación de la energía, estas leyes son bastante usadas en la actualidad en varias ingenierías relacionadas con la electrónic, ya que nos permite conocer el valor de corrientes y tensiones de una red de mallas y nodos de una forma bastante sencilla. 
+
+Las leyes de Kirchhoff son dos las cuales dicen: 
+
+Primera Ley de Kirchhoff.- 
+
+La primera Ley de Kirchhoff, o también conocida como ley de corrientes de Kirchhoff o ley de nodos, dice que: “En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de la corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero”.
+Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
+
+I1+I2+I3+...+In=0
+
+Segunda Ley de Kirchhoff.- 
+
+La segunda ley de Kirchhoff, también conocida como la Ley de tensiones de Kirchhoff nos dice que: “En un circuito cerrado, la suma de todas las caídas de tensión es igual a la tensión total suministrada. De forma equivalente, la suma algebraica de las diferencias de potencial eléctrico en un circuito es igual a cero.” 
+Entonces siguiendo el enunciado obtenemos la siguiente ecuación: 
+
+V1+V2+V3+...+Vn=0
+
+4.- Diagram 
+
+![Ejemplo de circuito resistivo](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I1.png)
+
+
+
+ 
+   
