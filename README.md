@@ -105,7 +105,8 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 1.6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
 
 | Voltaje| Trayectoria 1 | Trayectoria 2 |Trayectoria 3 |
-|  :---:|  :---: | :---: |:---: | :---: |:---: | :---: |
+|  :---:|  :---: | :---: | :---: |
+
 |        | Calculado | m|Calculado |m|Calculado|m|
 | `VR1(V)` | 2.05[v] |2.05[v]||2.05[v]||2.05[v]||2.05[v]||2.05[v]|
 
