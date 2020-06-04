@@ -57,5 +57,69 @@ V1+V2+V3+...+Vn=0
 
 ![Tabla materiales](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I2.png)
 
-6.- Mapa de Variables
+6.- PROCEDIMIENTO  
+ 
+6.1. Arme el circuito que se muestra en la figura 1.1. 
+
+![MHE](https://github.com/BrandonOsejo/lab-circuitos/blob/master/L1I3.png)
+
+6.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+
+| variable | valor calculado | valor medio |
+|  :---:|  :---: | :---: |
+| `VR1(V)` | 2.05[v] |2.05[v]|
+| IR1(mA) | 2.05[mA] |2.05[mA]|
+| VR2(V)| 4.25[v]|4.25[v]|
+| IR2(mA) | 1.089[mA] |1.09[mA]|
+| VR3(V) | 2.125[v]|2.12[v]|
+| IR3(mA) | 0.9659[mA] |0.965[mA] |
+| VR4(V)| 2.125[v] |2.12[v]|
+| IR4(mA)| 0.9659[mA] |0.965[ mA]|
+| VR5(V) | 3.7[v] |3.7[v]|
+| IR5(mA) | 2.05[mA] |2.05[mA]|
+
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+6.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2. 
+
+| Voltaje| Trayectoria 1 | Trayectoria 2 |Trayectoria 3 |
+|  :---:|  :---: | :---: | :---: |
+
+|        | Calculado | Medido|Calculado |Medido|Calculado|Medido|
+|  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |
+| VF(V)       | 10[v]   |10[v]   |  0      |0       |10[v]     |10[v]   |  
+| VR1(V)      | -2.05[v]|-2.05[v]|  0      |0       |-2.05[v]  |-2.05[v]|  
+| VR2(V)      | -4.25[v]|-4.25[v]|4.25[v]  |4.25[v] | 0        |0       |
+| VR3(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]| 
+| VR4(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]|
+| `VR5(V)`    | -3.69[v]|-3.7[v] | 0       |0       |-3.69[v]  |-3.7[v] |
+| `SUMATORIA V` | 0[v]    |0[v]    | 0[v]    |0[v]    |0[v]      |0[v]    |
+
+6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
+
+| Corriente| Nodo 1 | Nodo 2 |Nodo 3 |Nodo 4 |Nodo 5 |
+|  :---:|  :---: | :---: | :---: | :---: | :---: |
+
+|        | Calculado | Medido|Calculado |Medido|Calculado|Medido|Calculado|Medido|Calculado|Medido|
+|  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |:---: |:---: |:---: |:---: |
+| IF(mA)        | 2.05 |2.05  |  0    |0     |0      |0    |0     |  0  |-2.05    | -2.05  |     
+| IR1(mA)       | -2.05|-2.05 |  2.05 |2.05  |0      |0    |0     |  0  |  0    |  0    |    
+| IR2(mA)       | 0    |0     |-1.089 |-1.09 | 0     |0    |1.089 |   1.09    |  0  |  0    |  
+| IR3(mA)       | 0    |0     |-0.9659|-0.96 |0.9659 |0.96 |0     | 0    |  0    |  0    |   
+| IR4(mA)       | 0    |0     |0      |0     |-0.9659|-0.96|0.9659|   0.96 |   0 |  0    |  
+| IR5(mA)       |  0   |0     | 0     |0     |0      |0    |-2.05 |   -2.05|  2.05  | 2.05  |  
+| `SUMATORIA I` | 0[mA]|0[mA] | 0[mA] |0[mA] |0[mA]  |0[mA]|0[mA] |  0[mA] | 0[mA]  |0[mA]   |  
+
+6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto. 
+ ((((DEBERAIMOS BORRAR ESTA LINEA DE AQUI ARRIBA?))))
+7  ​CONCLUSIONES 
+
+7.1 ​Todos los nodos elegidos cumplen con la ley de corrientes de Kirchhoff ya que la misma cantidad de corriente que entra al nodo es la que sale de este. 
+
+7.2 ​En el nodo de un circuito, si una corriente entra, otra sale 
+
+7.3 ​Cada resistencia tendrá su correspondiente voltaje los cuales cumplen con la ley de voltaje de Kirchhoff 
+
+7.4 ​Como podemos ver, los porcentajes de error obtenido son bastante bajos con lo cual si se cumplirian las leyes de Kirchhoff. 
+
 
