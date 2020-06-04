@@ -109,13 +109,13 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 |        | Calculado | Medido|Calculado |Medido|Calculado|Medido|
 |  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |
-| VF(V)       | 10[v]   |10[v]   |  0      |2.05[v]|   |2.05[v]|  |2.05[v]|
-| VR1(V)      | -2.05[v]|-2.05[v]|  0      |2.05[v]|   |2.05[v]|  |2.05[v]|
-| VR2(V)      | -4.25[v]|-4.25[v]|4.25[v]  |2.05[v]|   |a2.05[v]|a   |2.05[v]|
-| VR3(V)      | 0       |0       |-2.125[v]|2.05[v]|   |2.05[v]|   |2.05[v]|
-| VR4(V)      | 0       |0       |-2.125[v]|2.05[v]|   |2.05[v]|  |2.05[v]|
-| `VR5(V)`    | -3.69[v]|-3.7[v] | 0       |2.05[v]|   |2.05[v]||2.05[v]|
-| `SUMATORIA` | 0[v]    |0[v]    | 0[v]    |2.05[v]|   |2.05[v]||2.05[v]|
+| VF(V)       | 10[v]   |10[v]   |  0      |0       |10[v]     |10[v]   |  
+| VR1(V)      | -2.05[v]|-2.05[v]|  0      |0       |-2.05[v]  |-2.05[v]|  
+| VR2(V)      | -4.25[v]|-4.25[v]|4.25[v]  |4.25[v] | 0        |0       |
+| VR3(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]| 
+| VR4(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]|
+| `VR5(V)`    | -3.69[v]|-3.7[v] | 0       |0       |-3.69[v]  |-3.7[v] |
+| `SUMATORIA` | 0[v]    |0[v]    | 0[v]    |0[v]    |0[v]      |0[v]    |
 
 1.6.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen  del nodo. Anote los resultados en la tabla 1.3.
 
