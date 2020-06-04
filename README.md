@@ -110,8 +110,9 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 | IR5(mA)       |  0   |0     | 0     |0     |0      |0    |-2.05 |   -2.05|  2.05  | 2.05  |  
 | `SUMATORIA I` | 0[mA]|0[mA] | 0[mA] |0[mA] |0[mA]  |0[mA]|0[mA] |  0[mA] | 0[mA]  |0[mA]   |  
 
-6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto. 
- ((((DEBERAIMOS BORRAR ESTA LINEA DE AQUI ARRIBA?))))
+6.5  ​Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto
+ 
+ 
 7  ​CONCLUSIONES 
 
 7.1 ​Todos los nodos elegidos cumplen con la ley de corrientes de Kirchhoff ya que la misma cantidad de corriente que entra al nodo es la que sale de este. 
