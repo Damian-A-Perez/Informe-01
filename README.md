@@ -137,4 +137,4 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 10) Cronograma:
 
-![Cronograma](https://github.com/Damian-A-Perez/Informe-01/blob/master/img/L1I4.jpeg)
+![Cronograma](https://github.com/Damian-A-Perez/Informe-01/blob/master/img/corno%20l4.png)
